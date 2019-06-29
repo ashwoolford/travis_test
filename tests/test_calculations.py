@@ -28,5 +28,5 @@ class TestStemmer(unittest.TestCase):
 		self.assertEqual(self.t.mul(4,2),8)		
 
 
-#if __name__ == '__main__':
-#	unittest.main()		
+if __name__ == '__main__':
+	unittest.main()		
